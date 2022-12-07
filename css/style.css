@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 40px;
+    box-sizing: border-box;
+}
+
+
+#one
+{
+    background-color: blue;
+    color: white;
+    height: 200px;
+    width : 200px;
+    padding: 20px;
+    border: 40px solid purple;
+    margin: 60px;
+ 
+}
+
+
+#two
+{
+    background-color: red;
+    height: 200px;
+    width : 200px;
+    padding: 20px;
+    border: 40px solid purple;
+    margin: 60px;
+}
+
