@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    font-size: 40px;
+    /* font-size: 40px; */
     margin: 0px;
     padding: 0px;
 }
@@ -11,7 +11,12 @@ html {
   }
   
 
-
+.container
+{
+  width: 1000 px;
+  margin: 0 auto;
+  display: flex;
+}
   
 
 #one
@@ -37,3 +42,13 @@ html {
     margin: 60px;
 }
 
+
+h2
+{
+  margin: 0 0 20px 0;
+}
+
+p 
+{
+margin : 10px 0 0 0;
+}
